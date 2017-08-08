@@ -1,0 +1,49 @@
+body{
+  background: #CD8C95;
+  padding: 10px;
+  margin: 50px;
+  height: 60px;
+}
+
+
+td, th {
+  background: #20B2AA;
+  padding: 10px 15px;
+}
+h1{
+	color: teal;
+}
+h2,h3{
+	color: blue;
+}
+
+strong{
+	color: red;
+}
+ span{
+ 	color: orange;
+ }
+ p ins {
+ 	color: red;
+ }
+ p em {
+ 	color: blue;
+ }
+ h2 p{
+ 	color: olive;
+ }
+ h2 p ins{
+ 	color: green;
+ }
+ td {
+ 	color: green;
+ }
+ table,th td span{
+	color: yellow;
+}
+table #columna1 ,#columna2{
+  color: red;
+}
+  h3 span{
+  color:plum;
+}
